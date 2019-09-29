@@ -1,0 +1,12 @@
+export const ADD_CLIENT = "ADD_CLIENT";
+export const DELETE_CLIENT = "DELETE_CLIENT";
+export const UPDATE_CLIENT = "UPDATE_CLIENT";
+export const GET_ALL_CLIENT_LIST = "GET_ALL_CLIENT_LIST";
+export const CLIENT_DETAIL = "CLIENT_DETAIL";
+export const GET_ALL_APPLICANT_LIST = "GET_ALL_APPLICANT_LIST";
+export const LOGIN_USER = "LOGIN_USER";
+export const LOGOUT_USER = "LOGOUT_USER";
+export const SIGNUP_USER = "SIGNUP_USER";
+export const UI_START = "UI_START";
+export const UI_END = "UI_END";
+export const RESET_APP = "RESET_APP";

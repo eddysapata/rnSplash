@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "782511740022",
+    "firebase_url": "https://splash-17d28.firebaseio.com",
+    "project_id": "splash-17d28",
+    "storage_bucket": "splash-17d28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782511740022:android:9765605764f9c511",
+        "android_client_info": {
+          "package_name": "com.splash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782511740022-mko22r9k54h9nn8d3r47es608h7vetb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_XgYQZrjJen0KcvYHjd9sw-NCL3-7oc"
+        },
+        {
+          "current_key": "AIzaSyClP96wBRTqQA6GDWaabULOKEY4KkI9Nxk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782511740022:android:6cbe67f1b758cb13",
+        "android_client_info": {
+          "package_name": "com.splashh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782511740022-mko22r9k54h9nn8d3r47es608h7vetb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_XgYQZrjJen0KcvYHjd9sw-NCL3-7oc"
+        },
+        {
+          "current_key": "AIzaSyClP96wBRTqQA6GDWaabULOKEY4KkI9Nxk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

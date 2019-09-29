@@ -1,0 +1,43 @@
+new Transaction:
+
+
+
+
+transaction2019:
+    user1 : {
+      submittedDate01: januaryy
+      refID01:
+      mode01:
+      submittedBy01:
+
+      submittedDate02: february
+      refID02:
+      mode02:
+      submittedBy02:
+    }
+  user2 : {
+    submittedDate:
+    refID:
+    mode:
+    submittedBy:
+  }
+
+transaction2020:
+    user1 : {
+      submittedDate01: januaryy
+      refID01:
+      mode01:
+      submittedBy01:
+
+      submittedDate02: february
+      refID02:
+      mode02:
+      submittedBy02:
+    }
+  user2 : {
+    submittedDate:
+    refID:
+    mode:
+    submittedBy:
+  }
+

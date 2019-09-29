@@ -1,0 +1,23 @@
+
+
+clientPersonalInfo -> 7JE137eNWu9Ms8WS1yb0 -> { name: , age:, location}
+
+transaction2018 -> 7JE137eNWu9Ms8WS1yb0 ->
+  {
+    modeOfPayment01:
+    date01:
+    amount:
+    submittedBy01:
+    refNum01:
+    note01:
+
+    modeOfPayment02:
+    date02:
+    submittedBy02:
+    refNum02:
+    note02:
+  }
+
+transaction2019 ->
+
+
